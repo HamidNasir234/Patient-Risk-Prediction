@@ -27,6 +27,18 @@ Accuracy: 83%
 - Scikit-Learn
 - Streamlit
 
+- ## Hyperparameter Tuning
+
+GridSearchCV was used to determine the best K value.
+
+Best Parameters:
+
+K = 7
+
+Metric = Euclidean
+
+Weights = Uniform
+
 - ## Run Project
 
 pip install -r requirements.txt
